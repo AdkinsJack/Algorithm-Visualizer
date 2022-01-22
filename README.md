@@ -5,7 +5,7 @@
   <br>
 </h1>
 
-<h4 align="center">Visualizes the algoirthms known as Merge Sort, Quick Sort, and Bubble Sort using <a href="https://docs.python.org/3/library/tkinter.html" target="_blank">Tkinter</a></h4>
+<h4 align="center">Visualizes the algorithms known as Merge Sort, Quick Sort, and Bubble Sort using <a href="https://docs.python.org/3/library/tkinter.html" target="_blank">Tkinter</a></h4>
 
 
 <p align="center">
