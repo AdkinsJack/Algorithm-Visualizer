@@ -19,9 +19,9 @@
 
 ## Key Features
 
-The user has the option to choose from Merge Sort, Quick Sort, or Bubble Sort.
-The user has the option to change the various settings of Data Size, Min Value, Max Value, Speed, and Algorithm. 
-The user may generate a new array of data with ease.
+The user has the option to choose from Merge Sort, Quick Sort, or Bubble Sort.\
+The user has the option to change the various settings of Data Size, Min Value, Max Value, Speed, and Algorithm. \
+The user may generate a new array of data with ease. \
 
 ## How To Use
 
