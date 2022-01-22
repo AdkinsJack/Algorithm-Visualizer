@@ -25,7 +25,7 @@ The user may generate a new array of data with ease.
 
 ## How To Use
 
-To clone this application, you'll need [Git](https://git-scm.com)
+To clone this application, you'll need [Git](https://git-scm.com) \
 From your command line:
 
 ```bash
